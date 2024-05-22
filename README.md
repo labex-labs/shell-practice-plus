@@ -11,8 +11,8 @@ In this course, You will practice more labs of Shell. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                                 | Difficulty   | URL                                                                        |
-|---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                | Difficulty   | URL                                                                        |
+|---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 🎯 Using While Loop in Bash                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211451'>Start Challenge</a> |
 |      02 | 🎯 Reading Command Line Arguments                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211459'>Start Challenge</a> |
 |      03 | 🎯 Concatenating String Variables                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211461'>Start Challenge</a> |
