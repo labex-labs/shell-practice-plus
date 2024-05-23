@@ -11,7 +11,7 @@ In this course, You will practice more labs of Shell. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                                | Difficulty   | URL                                                                        |
+|   Index | Name                                                | Difficulty   | Practice                                                                   |
 |---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 🎯 Using While Loop in Bash                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211451'>Start Challenge</a> |
 |      02 | 🎯 Reading Command Line Arguments                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211459'>Start Challenge</a> |
@@ -80,4 +80,9 @@ In this course, You will practice more labs of Shell. This will help you to mast
 |      65 | 📖 Terminate Processes with kill, killall, and pkill | ★☆☆          | <a target='_blank' href='https://labex.io/labs/44'>Start Lab</a>           |
 |      66 | 🎯 Terminate Processes by Name and ID                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/31'>Start Challenge</a>     |
 |      67 | 🎯 System Information Displaying Script              | ★★☆          | <a target='_blank' href='https://labex.io/labs/18281'>Start Challenge</a>  |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
