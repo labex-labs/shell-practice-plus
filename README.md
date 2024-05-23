@@ -83,6 +83,7 @@ In this course, You will practice more labs of Shell. This will help you to mast
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
